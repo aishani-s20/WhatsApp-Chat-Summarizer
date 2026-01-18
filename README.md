@@ -2,7 +2,7 @@
 
 A powerful NLP tool that takes raw WhatsApp chat exports (`_chat.txt`) and generates concise, abstractive summaries using a fine-tuned Google Pegasus model. This project is deployed on Hugging Face Spaces.
 
-🔗 **Live Demo:** [WhatsApp Chat Summarizer on Hugging Face](https://huggingface.co/spaces/your-username/whatsapp-summarizer)
+🔗 **Live Demo:** [WhatsApp Chat Summarizer on Hugging Face](https://huggingface.co/spaces/AishaniS/WhatsAppChatSummarizerModel)
 
 ---
 
