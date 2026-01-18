@@ -94,8 +94,6 @@ The model's performance is evaluated using ROUGE scores:
 - **ROUGE-2:** Measures bigram overlap
 - **ROUGE-L:** Measures longest common subsequence
 
-*Add your actual ROUGE scores here after evaluation.*
-
 ---
 
 ## 🔍 How It Works
@@ -124,18 +122,6 @@ John and Sarah confirm their 5 PM meeting. John will bring the documents.
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -145,9 +131,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Hugging Face: [@your-hf-username](https://huggingface.co/your-hf-username)
-- Email: your.email@example.com
+- GitHub: [@aishani-s20](https://github.com/aishani-s20)
+- Hugging Face: [@AishaniS](https://huggingface.co/AishaniS)
+- Email: aishani1020@gmail.com
 
 ---
 
@@ -156,15 +142,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Hugging Face](https://huggingface.co/) for hosting the model and providing the Transformers library
 - [SAMSum Dataset](https://huggingface.co/datasets/knkarthick/samsum) for conversational training data
 - [Google Pegasus](https://github.com/google-research/pegasus) for the base model architecture
-
----
-
-## ⭐ Show Your Support
-
-Give a ⭐️ if this project helped you!
-
----
-
-## 📧 Contact
-
-For questions or feedback, feel free to reach out via [email](mailto:your.email@example.com) or open an issue in the repository.
