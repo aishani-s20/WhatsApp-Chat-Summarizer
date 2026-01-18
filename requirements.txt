@@ -1,0 +1,6 @@
+transformers 
+datasets 
+torch 
+evaluate 
+rouge_score 
+streamlit
